@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Testamonail/static/css/main.33b49692.css",
+    "main.js": "/Testamonail/static/js/main.51ea7e8c.js",
+    "index.html": "/Testamonail/index.html",
+    "main.33b49692.css.map": "/Testamonail/static/css/main.33b49692.css.map",
+    "main.51ea7e8c.js.map": "/Testamonail/static/js/main.51ea7e8c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33b49692.css",
+    "static/js/main.51ea7e8c.js"
+  ]
+}
